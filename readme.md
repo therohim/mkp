@@ -1,5 +1,3 @@
-# Image Processing Task
-
 ## Cloning the repository
 To clone the repository run the following command:
 ```bash
