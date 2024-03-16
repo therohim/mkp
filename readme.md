@@ -1,3 +1,7 @@
+# Author
+Nama : Nur Rohim
+Email : nrohim893@gmail.com
+
 ## Cloning the repository
 To clone the repository run the following command:
 ```bash
